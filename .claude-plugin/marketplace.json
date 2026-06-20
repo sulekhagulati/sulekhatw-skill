@@ -12,7 +12,7 @@
     {
       "name": "doc-skills",
       "source": "./plugins/doc-skills",
-      "description": "Reviewer, Generator & Analyzer skills, a doc-auditor agent, and a doc-tools MCP server."
+      "description": "Reviewer & Generator commands, a doc-coverage skill, a doc-auditor agent, and remote MCP servers (DeepWiki + Claude Code docs)."
     }
   ]
 }
